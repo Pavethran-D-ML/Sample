@@ -1,6 +1,7 @@
 print('created on Windows')
 print('Edit from Linux')
 print('Edit from Windows')
+print('Linux Edit 2')
 def isPrime(number):
     if number < 2:
         return False
